@@ -1,1 +1,1 @@
-Ejercicios practicos de C# y ASP.NET
+Ejercicios practicos de C# y .NET core
