@@ -1,0 +1,16 @@
+/home/gambl3r08/Dotnet/test1/bin/Debug/net5.0/test1
+/home/gambl3r08/Dotnet/test1/bin/Debug/net5.0/test1.deps.json
+/home/gambl3r08/Dotnet/test1/bin/Debug/net5.0/test1.runtimeconfig.json
+/home/gambl3r08/Dotnet/test1/bin/Debug/net5.0/test1.runtimeconfig.dev.json
+/home/gambl3r08/Dotnet/test1/bin/Debug/net5.0/test1.dll
+/home/gambl3r08/Dotnet/test1/bin/Debug/net5.0/ref/test1.dll
+/home/gambl3r08/Dotnet/test1/bin/Debug/net5.0/test1.pdb
+/home/gambl3r08/Dotnet/test1/obj/Debug/net5.0/test1.csprojAssemblyReference.cache
+/home/gambl3r08/Dotnet/test1/obj/Debug/net5.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/home/gambl3r08/Dotnet/test1/obj/Debug/net5.0/test1.AssemblyInfoInputs.cache
+/home/gambl3r08/Dotnet/test1/obj/Debug/net5.0/test1.AssemblyInfo.cs
+/home/gambl3r08/Dotnet/test1/obj/Debug/net5.0/test1.csproj.CoreCompileInputs.cache
+/home/gambl3r08/Dotnet/test1/obj/Debug/net5.0/test1.dll
+/home/gambl3r08/Dotnet/test1/obj/Debug/net5.0/ref/test1.dll
+/home/gambl3r08/Dotnet/test1/obj/Debug/net5.0/test1.pdb
+/home/gambl3r08/Dotnet/test1/obj/Debug/net5.0/test1.genruntimeconfig.cache
