@@ -18,6 +18,9 @@ namespace usoMetodos
         }
 
 
+        static int sumaF(int a, int b)=>a+b; // Operador flecha
+        static int sumaF(int a, int b, int c)=>a+b+c;//Flecha + sobrecarca
+
 
 
     }
