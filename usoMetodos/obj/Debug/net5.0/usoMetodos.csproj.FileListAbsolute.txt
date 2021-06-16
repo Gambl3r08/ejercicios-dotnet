@@ -1,0 +1,16 @@
+/home/gambl3r/Dotnet/usoMetodos/bin/Debug/net5.0/usoMetodos
+/home/gambl3r/Dotnet/usoMetodos/bin/Debug/net5.0/usoMetodos.deps.json
+/home/gambl3r/Dotnet/usoMetodos/bin/Debug/net5.0/usoMetodos.runtimeconfig.json
+/home/gambl3r/Dotnet/usoMetodos/bin/Debug/net5.0/usoMetodos.runtimeconfig.dev.json
+/home/gambl3r/Dotnet/usoMetodos/bin/Debug/net5.0/usoMetodos.dll
+/home/gambl3r/Dotnet/usoMetodos/bin/Debug/net5.0/ref/usoMetodos.dll
+/home/gambl3r/Dotnet/usoMetodos/bin/Debug/net5.0/usoMetodos.pdb
+/home/gambl3r/Dotnet/usoMetodos/obj/Debug/net5.0/usoMetodos.csprojAssemblyReference.cache
+/home/gambl3r/Dotnet/usoMetodos/obj/Debug/net5.0/usoMetodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/gambl3r/Dotnet/usoMetodos/obj/Debug/net5.0/usoMetodos.AssemblyInfoInputs.cache
+/home/gambl3r/Dotnet/usoMetodos/obj/Debug/net5.0/usoMetodos.AssemblyInfo.cs
+/home/gambl3r/Dotnet/usoMetodos/obj/Debug/net5.0/usoMetodos.csproj.CoreCompileInputs.cache
+/home/gambl3r/Dotnet/usoMetodos/obj/Debug/net5.0/usoMetodos.dll
+/home/gambl3r/Dotnet/usoMetodos/obj/Debug/net5.0/ref/usoMetodos.dll
+/home/gambl3r/Dotnet/usoMetodos/obj/Debug/net5.0/usoMetodos.pdb
+/home/gambl3r/Dotnet/usoMetodos/obj/Debug/net5.0/usoMetodos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/gambl3r/Dotnet/SintaxisBasica/bin/Debug/net5.0/SintaxisBasica
+/home/gambl3r/Dotnet/SintaxisBasica/bin/Debug/net5.0/SintaxisBasica.deps.json
+/home/gambl3r/Dotnet/SintaxisBasica/bin/Debug/net5.0/SintaxisBasica.runtimeconfig.json
+/home/gambl3r/Dotnet/SintaxisBasica/bin/Debug/net5.0/SintaxisBasica.runtimeconfig.dev.json
+/home/gambl3r/Dotnet/SintaxisBasica/bin/Debug/net5.0/SintaxisBasica.dll
+/home/gambl3r/Dotnet/SintaxisBasica/bin/Debug/net5.0/ref/SintaxisBasica.dll
+/home/gambl3r/Dotnet/SintaxisBasica/bin/Debug/net5.0/SintaxisBasica.pdb
+/home/gambl3r/Dotnet/SintaxisBasica/obj/Debug/net5.0/SintaxisBasica.csprojAssemblyReference.cache
+/home/gambl3r/Dotnet/SintaxisBasica/obj/Debug/net5.0/SintaxisBasica.GeneratedMSBuildEditorConfig.editorconfig
+/home/gambl3r/Dotnet/SintaxisBasica/obj/Debug/net5.0/SintaxisBasica.AssemblyInfoInputs.cache
+/home/gambl3r/Dotnet/SintaxisBasica/obj/Debug/net5.0/SintaxisBasica.AssemblyInfo.cs
+/home/gambl3r/Dotnet/SintaxisBasica/obj/Debug/net5.0/SintaxisBasica.csproj.CoreCompileInputs.cache
+/home/gambl3r/Dotnet/SintaxisBasica/obj/Debug/net5.0/SintaxisBasica.dll
+/home/gambl3r/Dotnet/SintaxisBasica/obj/Debug/net5.0/ref/SintaxisBasica.dll
+/home/gambl3r/Dotnet/SintaxisBasica/obj/Debug/net5.0/SintaxisBasica.pdb
+/home/gambl3r/Dotnet/SintaxisBasica/obj/Debug/net5.0/SintaxisBasica.genruntimeconfig.cache

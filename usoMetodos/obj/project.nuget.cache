@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6hmGlaPSqWCF8pN/zf1oF0/cGr3xijcFVEvwZYp3u+8Kzay4YFR9qz+A2MtGlfoIBpo/SHWEAeLuKMnTbre3g==",
+  "success": true,
+  "projectFilePath": "/home/gambl3r/Dotnet/usoMetodos/usoMetodos.csproj",
+  "expectedPackageFiles": [
+    "/home/gambl3r/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
