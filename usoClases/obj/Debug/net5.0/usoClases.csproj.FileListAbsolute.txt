@@ -1,0 +1,16 @@
+/home/gambl3r/Dotnet/usoClases/bin/Debug/net5.0/usoClases
+/home/gambl3r/Dotnet/usoClases/bin/Debug/net5.0/usoClases.deps.json
+/home/gambl3r/Dotnet/usoClases/bin/Debug/net5.0/usoClases.runtimeconfig.json
+/home/gambl3r/Dotnet/usoClases/bin/Debug/net5.0/usoClases.runtimeconfig.dev.json
+/home/gambl3r/Dotnet/usoClases/bin/Debug/net5.0/usoClases.dll
+/home/gambl3r/Dotnet/usoClases/bin/Debug/net5.0/ref/usoClases.dll
+/home/gambl3r/Dotnet/usoClases/bin/Debug/net5.0/usoClases.pdb
+/home/gambl3r/Dotnet/usoClases/obj/Debug/net5.0/usoClases.csprojAssemblyReference.cache
+/home/gambl3r/Dotnet/usoClases/obj/Debug/net5.0/usoClases.GeneratedMSBuildEditorConfig.editorconfig
+/home/gambl3r/Dotnet/usoClases/obj/Debug/net5.0/usoClases.AssemblyInfoInputs.cache
+/home/gambl3r/Dotnet/usoClases/obj/Debug/net5.0/usoClases.AssemblyInfo.cs
+/home/gambl3r/Dotnet/usoClases/obj/Debug/net5.0/usoClases.csproj.CoreCompileInputs.cache
+/home/gambl3r/Dotnet/usoClases/obj/Debug/net5.0/usoClases.dll
+/home/gambl3r/Dotnet/usoClases/obj/Debug/net5.0/ref/usoClases.dll
+/home/gambl3r/Dotnet/usoClases/obj/Debug/net5.0/usoClases.pdb
+/home/gambl3r/Dotnet/usoClases/obj/Debug/net5.0/usoClases.genruntimeconfig.cache
