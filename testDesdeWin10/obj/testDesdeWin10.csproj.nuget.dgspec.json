@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\rober\\Dotnet\\test1\\test1.csproj": {}
+    "D:\\rober\\Dotnet\\testDesdeWin10\\testDesdeWin10.csproj": {}
   },
   "projects": {
-    "D:\\rober\\Dotnet\\test1\\test1.csproj": {
+    "D:\\rober\\Dotnet\\testDesdeWin10\\testDesdeWin10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\rober\\Dotnet\\test1\\test1.csproj",
-        "projectName": "test1",
-        "projectPath": "D:\\rober\\Dotnet\\test1\\test1.csproj",
+        "projectUniqueName": "D:\\rober\\Dotnet\\testDesdeWin10\\testDesdeWin10.csproj",
+        "projectName": "testDesdeWin10",
+        "projectPath": "D:\\rober\\Dotnet\\testDesdeWin10\\testDesdeWin10.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "D:\\rober\\Dotnet\\test1\\obj\\",
+        "outputPath": "D:\\rober\\Dotnet\\testDesdeWin10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config"

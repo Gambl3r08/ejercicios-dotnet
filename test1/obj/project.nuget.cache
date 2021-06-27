@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fHLzAmesmbNvnSYIBDIG6gFYlfxyVr4oYkWNaTlC+YBG74Blpbe1vysYDnjMr43qyfRkwYX2kmQF7AwTDBOUfg==",
+  "dgSpecHash": "AVGlFEi/FmTrag/C7i6advDBswmIFWqcaEyW1ihctPR73PyHLf4jsea8MmtOKuluLncMywd1aWbquxtt2cyywA==",
   "success": true,
-  "projectFilePath": "/home/gambl3r08/Dotnet/test1/test1.csproj",
-  "expectedPackageFiles": [
-    "/home/gambl3r08/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\rober\\Dotnet\\test1\\test1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
